@@ -1,0 +1,9 @@
+Camisa
+Pantalón
+Corbata
+Falda
+Sombrero
+Gorra
+Media
+Cinturón
+Zapato
