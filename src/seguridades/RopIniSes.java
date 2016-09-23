@@ -129,6 +129,8 @@ public class RopIniSes extends javax.swing.JFrame {
         String strUsr, strCla;
         strUsr=txtUsr.getText();
         strUsr=txtUsr.getText();
+        strUsr=txtUsr.getText();
+        
         strCla=String.valueOf(pwdCla.getPassword());
         if (strUsr.length()>=3)
         {
